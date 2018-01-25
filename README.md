@@ -1,9 +1,9 @@
-# Word-Add-in-JS-Watermark
+# Word add-in: Add or Remove a Watermark
 
 This Word add-in will show you how to:
 
 1. Insert a WaterMark (with the text you need).
-2.Remove the Watermark
+2. Remove the Watermark
 
 ## Prerequisites
 
